@@ -1,0 +1,5 @@
+{
+  "name": "MediBill Analyst",
+  "description": "A professional medical bill analysis dashboard connecting to a Python backend for OCR, validation, and compliance reporting.",
+  "requestFramePermissions": []
+}
